@@ -1,3 +1,10 @@
-# heart-disease-ml
+# Predicting Heart disease using ML
 
-Predicting Heart disease using machine learning (scikit-learn)
+## We are going to take following approach:
+
+ - Problem definition
+ - Data
+ - Evaluation
+ - Features
+ - Modelling
+ - Experimentation
